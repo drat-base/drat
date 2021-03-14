@@ -1,0 +1,6 @@
+Package: drat
+Version: 0.1.8
+Depends: R (>= 3.2.0)
+Imports: utils
+Suggests: git2r, knitr, rmarkdown
+License: GPL (>= 2)
