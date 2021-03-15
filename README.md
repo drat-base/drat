@@ -17,11 +17,17 @@ accumulates more _code_ for `drat`, as well as
 
  ![](https://github.blog/wp-content/uploads/2016/08/47c2ecc4-6533-11e6-828a-91980daa7297.gif)
 
+Note, however, that you currently **must** use the `drat` package directly
+from its [GitHub repo](https://github.com/eddelbuettel/drat) in order to use
+GitHub Pages off `docs/` in the main branch---and you need to enable this,
+e.g. via `options(dratBranch="docs")` as the _released_ version only supports
+a `gh-pages` branch.  So in a sense this repo is currently "experimental" as
+is the support in the not-yet-released `drat` version.
 
-This repo was initiated (using command `dratPackage()`)
-with the source and windows binary of the last CRAN release of `drat`. You
-can delete either or both (for example via command `pruneRepo()`) and then
-add your own (via `insertPackage()`).  
+This repo was initiated (using command `dratPackage()`) with the source and
+windows binary of the last CRAN release of `drat`. You can delete either or
+both (for example via command `pruneRepo()`) and then
+add your own (via `insertPackage()`). 
 
 ### Author
 
