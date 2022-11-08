@@ -12,3 +12,45 @@ Version: 0.1.0
 Depends: R (>= 3.5.0)
 MD5sum: a30fc21a2a804cab5f2d32f0a13173ec
 NeedsCompilation: no
+
+Package: ueadata2
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: 525f3ea0072419cdddb5efd32544b49f
+NeedsCompilation: no
+
+Package: ueadata3
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: f583085e79fe073da8d1ffcf8b07ca05
+NeedsCompilation: no
+
+Package: ueadata4
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: 506e51bf8783341320a2ab3d5dba40f9
+NeedsCompilation: no
+
+Package: ueadata5
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: a59fa8aa2848bfd49c7febb636a1312a
+NeedsCompilation: no
+
+Package: ueadata6
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: 6b50de9baa7b1e35858eb341b9e5baf9
+NeedsCompilation: no
+
+Package: ueadata7
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: 99df062c6516a36095894b3b4dbbeaec
+NeedsCompilation: no
+
+Package: ueadata8
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+MD5sum: 7751944e0ee26706461746d6e9be7a18
+NeedsCompilation: no
